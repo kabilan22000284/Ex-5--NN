@@ -1,5 +1,5 @@
-H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+## ENTER YOUR NAME:Kabilan V
+## ENTER YOUR REGISTER NO:212222100018
 <H3>EX. NO.5</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
@@ -111,7 +111,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ![image](https://github.com/kabilan22000284/Ex-5--NN/assets/123469171/d4da6d38-b7e5-4604-95d4-af0ade60d59a)
 ![image](https://github.com/kabilan22000284/Ex-5--NN/assets/123469171/b4e6fe36-dfed-4084-ae80-a62b0058a9a4)
-![image](https://github.com/kabilan22000284/Ex-5--NN/assets/123469171/7ce961b5-a46f-43c6-83de-4bfd22c0dda4)
+
 
 
 <H3>Result:</H3>
